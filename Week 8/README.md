@@ -33,6 +33,10 @@ GIF Walkthrough: https://i.imgur.com/XZJrlfk.gifv
 
 GIF Made through LICEcap.app. 
 
+Vulnerability #2: Cross-Site Scripting (XSS)
+
+Vulnerability: If you create an alert message ...
+
 
 ## Red
 
