@@ -35,7 +35,13 @@ GIF Made through LICEcap.app.
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 
-Vulnerability: If you create an alert message ...
+Vulnerability: If you create an alert message in the comments section the blue and red sites should put the alert under the feedback but if you try the same in the green website then you either get a pop up or the feedback doesnt even show up. 
+
+Here is a walkthrough of the vulnerability:
+
+GIF Walkthrough: https://i.imgur.com/FAW7MKa.gifv
+
+GIF Made through LICEcap.app. 
 
 
 ## Red
