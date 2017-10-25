@@ -27,7 +27,7 @@ Vulnerability #1: Username Enumeration
 
 Vulnerability: Entering in a name of the existing user and a random password will cause an error to pop up in bold. Entering in an previously unknown user and a random password will cause a normal error to pop up. The programming lets known users know there password is wrong by indicating the message in bold. 
 
-Here is a walkthrough of the vulnerability.
+Here is a walkthrough of the vulnerability:
 
 GIF Walkthrough: https://i.imgur.com/XZJrlfk.gifv
 
@@ -40,7 +40,14 @@ Vulnerability: If you create an alert message ...
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
+  Vulnerability: Going on the Blue and Green site and changing the ID to 10 or 11 takes you back to you the list of members but in the red site changing the numbers will take you to Testy McTesterson and Lazy Lazyman pages. The programmer did not make those users unavailbe on the red site. 
+  
+  Here is a walkthrough of the vulnerability:
+  
+  GIF Walkthrough: https://i.imgur.com/btyqiJf.gifv
+  
+  GIF Made through LICEcap.app.
 
 Vulnerability #2: __________________
 
