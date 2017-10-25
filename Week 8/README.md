@@ -28,7 +28,9 @@ Vulnerability #1: Username Enumeration
 Vulnerability: Entering in a name of the existing user and a random password will cause an error to pop up in bold. Entering in an previously unknown user and a random password will cause a normal error to pop up. The programming lets known users know there password is wrong by indicating the message in bold. 
 
 Here is a walkthrough of the vulnerability.
+
 GIF Walkthrough: https://i.imgur.com/XZJrlfk.gifv
+
 GIF Made through LICEcap.app. 
 
 
