@@ -27,7 +27,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Username Enumeration
 
-	Vulnerability: Entering in a name of the existing user and a random password will cause an error to pop up in bold. Entering        	in an previously unknown user and a random password will cause a normal error to pop up. The programming lets known users 		know there password is wrong by indicating the message in bold. 
+	Vulnerability: Entering in a name of the existing user and a random password will cause an error to pop up in bold. 	    Entering in an previously unknown user and a random password will cause a normal error to pop up. The programming lets 	   known users know there password is wrong by indicating the message in bold. 
 
 	Here is a walkthrough of the vulnerability:
 
@@ -37,7 +37,7 @@ Vulnerability #1: Username Enumeration
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 
-	Vulnerability: If you create an alert message in the comments section the blue and red sites should put the alert under the 	feedback but if you try the same in the green website then you either get a pop up or the feedback doesnt even show up. 
+	Vulnerability: If you create an alert message in the comments section the blue and red sites should put the alert 	  under the feedback but if you try the same in the green website then you either get a pop up or the feedback doesnt 	 	 even show up. 
 
 	Here is a walkthrough of the vulnerability:
 
