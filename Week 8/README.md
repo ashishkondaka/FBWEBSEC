@@ -49,6 +49,7 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
+	
 	Vulnerability: Going on the Blue and Green site and changing the ID to 10 or 11 takes you back to you the list of	 members but in the red site changing the numbers will take you to Testy McTesterson and Lazy Lazyman pages. The 	 programmer did not make those users unavailbe on the red site. 
   
   	Here is a walkthrough of the vulnerability:
