@@ -64,7 +64,7 @@ Vulnerability #2: Cross-Site Request Forgery
 	
 	Here is a walkthrough of the vulnerability:
 	
-	GIF Walkthrough: 
+	GIF Walkthrough: https://i.imgur.com/uuWLpAC.gifv
 	
 	GIF Made through LICEcap.app.
 
