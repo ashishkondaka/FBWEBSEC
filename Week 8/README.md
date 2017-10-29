@@ -58,7 +58,15 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
   
   	GIF Made through LICEcap.app.
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Request Forgery
+	
+	Vulnerability: Allows you to change the data of a user sales without changing the CSRF token when you inspect. In the 	      green site, if you change the CSRF Token to anything else, it will give you an error whereas on the red site, 		instead of an error you are still able to change the user data. 
+	
+	Here is a walkthrough of the vulnerability:
+	
+	GIF Walkthrough: 
+	
+	GIF Made through LICEcap.app.
 
 
 ## Notes
