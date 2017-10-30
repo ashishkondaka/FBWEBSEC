@@ -17,10 +17,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+	
+	Vulnerability: This exploit can allow anyone to put a SQL Injection into the sales persons page ID. This will cause 	    the page to wait 5 seconds before it gets redirected back to the default page. In the blue page though, typing in this 	   exploit into the URL (%27%20OR%20SLEEP(5)=0--%27) next to id= will cause the URL to head back to the default persons 	page. 
+	
+	Here is a walkthrough of the vulnerability:
+
+	GIF Walkthrough: https://i.imgur.com/oE63AzA.gifv
+
+	GIF Made through LICEcap.app. 
 
 
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
+	
+	Vulnerability: This exploit will let anyone gain acess to the blue site without logging into the blue site. Logging 	    into the red site or the green site and then clicking log in into the blue site will automatically sign you in. 
+	
+	Here is a walkthrough of the vulnerability:
+
+	GIF Walkthrough: https://i.imgur.com/tPVHzqF.gifv
+
+	GIF Made through LICEcap.app. 
 
 
 ## Green
@@ -68,7 +84,3 @@ Vulnerability #2: Cross-Site Request Forgery
 	
 	GIF Made through LICEcap.app.
 
-
-## Notes
-
-Describe any challenges encountered while doing the work
