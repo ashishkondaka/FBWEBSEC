@@ -16,6 +16,10 @@ A summary of the data collected: number of attacks, number of malware samples, e
 
 I collected 549 attacks on my honeypot. I left it on for a couple of hours.
 
+GIF Walthrough: 
+
+https://i.imgur.com/PwZOTBx.gifv 
+
 Any unresolved questions raised by the data collected:
 
 How are people exploiting my Honeypot from other locations aroudn the world from the split second it was created? How vulnerable am I from anything I do on the web? The data collected showed me that I am not allowed to be as carefree as I thought I could be on the internet as I am very susceptible to attacks from around the world including India.  
